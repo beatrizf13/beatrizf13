@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizf13&count_private=true&layout=compact&theme=buefy" alt="top languages">
+
+
+
 <!--
-**beatrizf13/beatrizf13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizf13&count_private=true&layout=compact&theme=buefy" alt="top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmf&count_private=true&layout=compact&theme=buefy" alt="top languages">
 
 
 
